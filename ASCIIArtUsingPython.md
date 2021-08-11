@@ -1,4 +1,4 @@
-[Back to Home](README.md)
+[Back to Home](README.md) | [Python Projects](pythonminiproject.md)
 
 # ASCII ART (using Python)
 
