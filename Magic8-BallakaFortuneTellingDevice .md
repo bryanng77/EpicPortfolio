@@ -4,7 +4,8 @@ Glad you could join me today! Ever wondered if a **Magic Fortune Device** could 
 
 This **Magic 8-Ball** derives much of its power from the mysterious power of Python's __*if/elif/else statements*__. Here, for the very first time, we shall reveal the secrets of this mysterious power.
 
-![image-2.png](attachment:image-2.png)
+![image](https://user-images.githubusercontent.com/79688274/129035075-15d17ab8-ca55-4d02-973d-cf9b7493f090.png)
+
 
 ### To begin, we will be writing a Python program that can answer any “Yes” or “No” question with a different fortune each time it executes.
 
