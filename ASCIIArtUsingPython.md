@@ -1,6 +1,6 @@
-[Back to Home](README.md) | [Python Projects](pythonminiproject.md)
-
 # ASCII ART (using Python)
+
+[Back to Home](README.md) | [Python Projects](pythonminiproject.md)
 
 I came across this form of art called **ASCII** art, and I read somewhere on the internet that we could "replicate" the effects of this art using Python **(screams!!)**. Of course, this really intriguied me I decided to find out how I can do it in the simplest way possible (without any fancy code :-P)
 
