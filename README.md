@@ -1,6 +1,6 @@
 # Welcome To My Website!
 
-[Home](README.md) | [About Me](about.md)
+[Home](README.md) | [Python Projects](pythonminiproject.md) | [About Me](about.md)
 
 # My Coding Portfolio 
 
