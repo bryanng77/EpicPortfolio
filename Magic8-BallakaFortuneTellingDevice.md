@@ -92,11 +92,9 @@ print("Magic 8-Ball's answer: " + ball_answer) #ball_answer depends on the numbe
 
 And there we have it folks, our very own **Magic 8-Ball** that uses Python's __*if/elif/else statements*__. 
 
-Really glad that got the opportunity to apply the if/elif/else statements that I learnt recently. Creating this was pretty enjoyable and I truly believe that the best way to learn a programming language quickly is the apply what we've learnt! Okay, enough of me talking. Have fun and happy coding! :D
+Really glad that I get to apply the if/elif/else statements that I learnt recently. Creating this was pretty enjoyable and I truly believe that the best way to learn a programming language quickly is the apply what we've learnt! Okay, enough of me talking. Have fun and happy coding! :D
 
 
 
 
-```python
 
-```
