@@ -1,6 +1,6 @@
-[Back to Home](README.md) | [Python Projects](pythonminiproject.md)
-
 # Magic 8-Ball, the Ultimate Fortune Telling Device
+
+[Back to Home](README.md) | [Python Projects](pythonminiproject.md)
 
 Glad you could join me today! Ever wondered if a **Magic Fortune Device** could determine if you would hmmmmm..... WIN THE LOTTERY? Well, we'll find out today!
 
