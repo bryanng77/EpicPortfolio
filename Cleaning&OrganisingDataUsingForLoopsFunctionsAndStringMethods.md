@@ -1,7 +1,8 @@
 # Cleaning Fabric Store Data
 
-![image](https://user-images.githubusercontent.com/79688274/129765913-45908a97-0a7f-4b05-aaee-46b8b3244652.png)
+[Back to Home](README.md) | [Python Projects](pythonminiproject.md)
 
+![image](https://user-images.githubusercontent.com/79688274/129765913-45908a97-0a7f-4b05-aaee-46b8b3244652.png)
 
 Hello there, glad you could join me today! For this mini project, I will be using some basic Python functions (mainly For Loops, Functions and some string methods) to clean up some data that was generated from a very old cash register that my god-grandmother is still using up till this day in her sewing shop all the way at Tanglin Halt area. I thought it'd be fun to play around with the data and explore what I can do with it! Without further ado, LETS GO!
 
