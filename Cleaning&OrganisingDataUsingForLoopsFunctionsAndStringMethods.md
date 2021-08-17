@@ -1,6 +1,7 @@
 # Cleaning Fabric Store Data
 
-![image.png](attachment:image.png)
+![image](https://user-images.githubusercontent.com/79688274/129765913-45908a97-0a7f-4b05-aaee-46b8b3244652.png)
+
 
 Hello there, glad you could join me today! For this mini project, I will be using some basic Python functions (mainly For Loops, Functions and some string methods) to clean up some data that was generated from a very old cash register that my god-grandmother is still using up till this day in her sewing shop all the way at Tanglin Halt area. I thought it'd be fun to play around with the data and explore what I can do with it! Without further ado, LETS GO!
 
@@ -128,7 +129,7 @@ green&white;,;09/15/17,    Phelps Ng   ;,;$30.52
 ;,;   $22.66   ;,; green&white&blue;,;09/15/17"""
 ```
 
-From the string, we can look at how messy the information is displayed. Our job here is to ensure that the data is split up properly so that we can proceed with our tasks. After much observation, you will be able to see that the data is organized in such a way that shows the **name of customer, cost of fabric, color of fabric and date of purchase**.
+My goodness!! Look at how messy the data is! Today, our job here is to ensure that the data is split up properly so that we can proceed with our tasks. After much observation, you will be able to see that the data is organized in such a way that shows the **name of customer, cost of fabric, color of fabric and date of purchase**.
 
 It looks like each transaction is separated from the next transaction by a "," and then each piece of data within a transaction is separated by the artifact ";,;". I realized that in order for us to split everything up, we will need to replace the ";,;" to something without a comma so that we do not split any of the transactions themselves. I'll show you what I mean very soon!
 
@@ -453,6 +454,6 @@ for fabric_color in colors:
 
 I hope that you enjoyed this mini project that I did to help ease the calculation portion for my god-grandmother. (sort of) I thoroughly enjoyed this mini-project as I this made my god-grandmother smile like crazy (she doesn't know what Python is, but I guess she's happy that I tried to help her).
 
-Alright, enough of me talking! Stay safe and happy coding! 
+Alright, enough of me talking! Stay safe, have fun and happy coding! 
 
 
