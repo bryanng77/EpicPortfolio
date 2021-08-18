@@ -422,6 +422,10 @@ With all the colors being seperated from each other, we can finally COUNT them!!
 
 
 ```python
+
+# This list contains all the colors that are in the fabric_sold_split list so that we can iterate through it
+colors = ['red','yellow','green','white','black','blue','purple']
+
 def color_count(fabric_color):
     color_total = 0
     for color in fabric_sold_split:
@@ -433,9 +437,6 @@ def color_count(fabric_color):
 
 
 ```python
-# This list contains all the colors that are in the fabric_sold_split list
-colors = ['red','yellow','green','white','black','blue','purple']
-
 # Instead of individually printing each color count, we can use For Loops and .format() to help us.
 
 for fabric_color in colors:
