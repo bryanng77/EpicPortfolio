@@ -4,7 +4,7 @@
 
 # My Coding Portfolio 
 
-### >>>> [Python Projects](pythonminiproject.md) <<<<
+## >>>> [Python Projects](pythonminiproject.md) <<<<
 Hey you! Yes YOU! Join me as I learn more about Python and create something fun out of it! 
 
 
