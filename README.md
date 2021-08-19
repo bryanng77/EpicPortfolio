@@ -2,7 +2,7 @@
 
 [Home](README.md) | [Python Projects](pythonminiproject.md) | [About Me](about.md)
 
-# My Coding Portfolio 
+# Portfolio Projects
 
 ## >>>> [Python Projects](pythonminiproject.md) <<<<
 Hey you! Yes YOU! Join me as I learn more about Python and create something fun out of it! 
